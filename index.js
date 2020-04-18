@@ -50,7 +50,7 @@ app.get("/collectie/:collectieid", function(request, response){
 app.use(function(request, response){
   response.statusCode = 404;
   response.render("404",{
-    url: request.host + request.url
+    url: request.hostname + request.url
   });
 });
 
