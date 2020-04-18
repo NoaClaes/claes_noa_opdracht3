@@ -4,7 +4,7 @@
   "description": "Dit is mijn derde schoolopdracht voor CMT4.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.js"
   },
   "author": "Claes Noa",
   "license": "ISC",
