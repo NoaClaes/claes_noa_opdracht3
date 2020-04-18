@@ -1,6 +1,3 @@
-app.set('port', (process.env.PORT || 5000));
-app.listen(app.get('port'), function() { });
-
 // neem express-module en steek functionaliteit in constante
 const express = require('express');
 const port = 5000;
@@ -11,6 +8,7 @@ const app = express();
 
 // constante aanmaken voor de data
 const data = require('./data/afbeeldingen.json');
+
 
 
 // vertellen aan webserver dat er gebruik gemaakt wordt van EJS
@@ -58,4 +56,5 @@ app.use(function(request, response){
 });
 
 // server opstarten en beschikbaar maken via URL
-app.listen(port);
+app.set('port', (process.env.PORT || 5000));
+app.listen(app.get('port'), function() { });
