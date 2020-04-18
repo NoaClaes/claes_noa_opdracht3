@@ -1,3 +1,6 @@
+app.set('port', (process.env.PORT || 5000));
+app.listen(app.get('port'), function() { });
+
 // neem express-module en steek functionaliteit in constante
 const express = require('express');
 const port = 5000;
