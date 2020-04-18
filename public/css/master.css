@@ -242,7 +242,7 @@ footer{
 
 footer p {
   color: white;
-  padding-top: 1rem;
+  padding-top: 0.1rem;
   font-family: 'Lexend Giga', sans-serif;
   font-size: 0.6rem;
   text-align: center;
@@ -271,4 +271,20 @@ footer p {
 
 #beschrijvingfoto{
   margin-bottom: 4rem;
+}
+
+.link{
+  margin-top: -2rem;
+}
+
+footer a{
+  color: white;
+}
+
+footer a:hover{
+  color: white;
+}
+
+footer a:visited{
+  color: white;
 }
