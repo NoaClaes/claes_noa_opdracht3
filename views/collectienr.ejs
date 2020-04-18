@@ -1,0 +1,17 @@
+<%- include("header"); -%>
+    <h1><%=afbeeldingen[id].titel%></h1>
+    
+
+  <section>
+      <img class="afbinfo" src="<%=afbeeldingen[id].imageURL%>">
+  </section>
+
+  <div class="extrainfo2">
+    <p id="beschrijvingfoto"><%=afbeeldingen[id].beschrijving%></p>
+    <p> <span class="vetgedrukt">Uitvoerder: </span><%=afbeeldingen[id].uitvoerder%></p>
+    <p> <span class="vetgedrukt">Jaar: </span><%=afbeeldingen[id].jaar%></p>
+    <p> <span class="vetgedrukt">Periode:</span> <%=afbeeldingen[id].periode%></p>
+    <p> <span class="vetgedrukt">Zaal:</span> <%=afbeeldingen[id].zaal%></p>
+  </div>
+
+<%- include("footer"); -%>

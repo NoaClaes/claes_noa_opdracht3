@@ -1,0 +1,111 @@
+{
+  "kunstcollectie": [{
+    "imageURL": "/img/img1.jpg",
+    "titel": "X-Ray Lily Flower White",
+    "beschrijving": "X-Ray foto van een lelie met witte achtergrond.",
+    "uitvoerder": "Mathew Schwartz",
+    "zaal": "ZAAL 12",
+    "jaar": "2020",
+    "periode": "21e eeuw",
+    "filter": "white"
+    },{
+      "imageURL": "/img/img2.jpg",
+      "titel": "X-Ray Lily Flower Black",
+      "beschrijving": "X-Ray foto van een lelie met zwarte achtergrond.",
+      "uitvoerder": "Mathew Schwartz",
+      "zaal": "ZAAL 12",
+      "jaar": "2020",
+      "periode": "21e eeuw",
+      "filter": "black"
+    },{
+      "imageURL": "/img/img4.jpg",
+      "titel": "X-Ray Gladiolus Black",
+      "beschrijving": "X-Ray foto van een zwaardlelie met zwarte achtergrond.",
+      "uitvoerder": "Mathew Schwartz",
+      "zaal": "ZAAL 12",
+      "jaar": "2020",
+      "periode": "21e eeuw",
+      "filter": "black"
+    },{
+      "imageURL": "/img/img3.jpg",
+      "titel": "X-Ray Gladiolus White",
+      "beschrijving": "X-Ray foto van een zwaardlelie met witte achtergrond.",
+      "uitvoerder": "Mathew Schwartz",
+      "zaal": "ZAAL 12",
+      "jaar": "2020",
+      "periode": "21e eeuw",
+      "filter": "white"
+    },{
+      "imageURL": "/img/img5.jpg",
+      "titel": "X-Ray Gladiolus White II",
+      "beschrijving": "X-Ray foto van een zwaardlelie met witte achtergrond.",
+      "uitvoerder": "Mathew Schwartz",
+      "zaal": "ZAAL 12",
+      "jaar": "2020",
+      "periode": "21e eeuw",
+      "filter": "white"
+    },{
+      "imageURL": "/img/img6.jpg",
+      "titel": "X-Ray Gladiolus Black II",
+      "beschrijving": "X-Ray foto van een zwaardlelie met zwarte achtergrond.",
+      "uitvoerder": "Mathew Schwartz",
+      "zaal": "ZAAL 12",
+      "jaar": "2020",
+      "periode": "21e eeuw",
+      "filter": "black"
+    },{
+      "imageURL": "/img/img8.jpg",
+      "titel": "X-Ray Hibiscus Black",
+      "beschrijving": "X-Ray foto van een hibiscus met zwarte achtergrond.",
+      "uitvoerder": "Mathew Schwartz",
+      "zaal": "ZAAL 12",
+      "jaar": "2020",
+      "periode": "21e eeuw",
+      "filter": "black"
+    },{
+      "imageURL": "/img/img7.jpg",
+      "titel": "X-Ray Hibiscus White",
+      "beschrijving": "X-Ray foto van een hibiscus met witte achtergrond.",
+      "uitvoerder": "Mathew Schwartz",
+      "zaal": "ZAAL 12",
+      "jaar": "2020",
+      "periode": "21e eeuw",
+      "filter": "white"
+    },{
+      "imageURL": "/img/img9.jpg",
+      "titel": "X-Ray Lily Flower White II",
+      "beschrijving": "X-Ray foto van een lelie met witte achtergrond.",
+      "uitvoerder": "Mathew Schwartz",
+      "zaal": "ZAAL 12",
+      "jaar": "2020",
+      "periode": "21e eeuw",
+      "filter": "white"
+    },{
+      "imageURL": "/img/img10.jpg",
+      "titel": "X-Ray Lily Flower Black II",
+      "beschrijving": "X-Ray foto van een lelie met zwarte achtergrond.",
+      "uitvoerder": "Mathew Schwartz",
+      "zaal": "ZAAL 12",
+      "jaar": "2020",
+      "periode": "21e eeuw",
+      "filter": "black"
+    },{
+      "imageURL": "/img/img12.jpg",
+      "titel": "X-Ray Hibiscus Black II",
+      "beschrijving": "X-Ray foto van een hibiscus met zwarte achtergrond.",
+      "uitvoerder": "Mathew Schwartz",
+      "zaal": "ZAAL 12",
+      "jaar": "2020",
+      "periode": "21e eeuw",
+      "filter": "black"
+    },{
+      "imageURL": "/img/img11.jpg",
+      "titel": "X-Ray Hibiscus White II",
+      "beschrijving": "X-Ray foto van een witte met zwarte achtergrond.",
+      "uitvoerder": "Mathew Schwartz",
+      "zaal": "ZAAL 12",
+      "jaar": "2020",
+      "periode": "21e eeuw",
+      "filter": "white"
+    }]
+}

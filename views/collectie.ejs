@@ -1,0 +1,28 @@
+<%- include("header"); -%>
+    <h1>COLLECTIE APRIL 2020</h1>
+    <p>Mathew Schwartz staat bekend om zijn X-Ray fotografie. De lopende tentoonstelling van april 2020 draait dan ook volledig rond deze werken. <br>Hieronder vindt u de werken die tentoon gesteld zullen worden via lichtboxen in de donkere kamer op de tentoonstelling.  </p>
+    <div class="extrainfo">
+      <p> <span class="vetgedrukt">Locatie:</span> ZAAL 12</p>
+      <p> <span class="vetgedrukt">Start:</span> 6 april 2020</p>
+      <p> <span class="vetgedrukt">Einde:</span> 1 mei 2020</p>
+      <p> <span class="vetgedrukt">Inkom:</span> 10 euro</p>
+    </div>
+
+
+
+
+  <div class="button-group filters-button-group" id="myDIV">
+    <button class="button is-checked active btn" data-filter="*">ALL</button>
+    <button class="button btn" data-filter=".white">WHITE</button>
+    <button class="button btn" data-filter=".black">BLACK</button>
+  </div>
+
+  <section class="kunstcollectie">
+    <% for(let i=0; i<afbeeldingen.length; i++) { %>
+      <a href="/collectie/<%=i%>">
+      <img class="element-item <%=afbeeldingen[i].filter%>" src="<%=afbeeldingen[i].imageURL%>">
+      </a>
+    <% } %>
+  </section>
+
+<%- include("footer"); -%>
